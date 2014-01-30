@@ -1,0 +1,159 @@
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	}
+.leafvertrep{
+width:16px;
+background-image:url(images/leaf-vertrep.jpg);
+background-position:left;
+background-repeat:repeat-y;
+}
+.topicright{
+width:249px;
+height:100px;
+background-image:url(images/top4.jpg);
+background-position:left;
+background-repeat:no-repeat;
+}
+/*...............left navigational Bar........................*/
+
+.leftnavButtons{
+	display: block;
+	font-weight:bold;
+	height: 20px;
+	width: 195px;
+	text-align:left;
+	color: #0143a5;
+	background-image: url(images/leftNavbtn-of.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-top:8px;
+	padding-left:30px;
+	text-decoration:none;
+}
+.leftnavButtons:hover {
+	background-image: url(images/leftNavbtn-on.jpg);
+	color: #FFFFFF;
+	background-repeat: no-repeat;
+}
+
+/*...............left navigational Bar........................*/
+
+/*...............left navigational Bar........................*/
+
+.leftbigButton{
+	display: block;
+	font-weight:bold;
+	height: 30px;
+	width: 195px;
+	text-align:left;
+	color: #0143a5;
+	background-image: url(images/leftNavBigbtn-of.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-top:3px;
+	padding-left:30px;
+	text-decoration:none;
+}
+.leftbigButton:hover {
+	background-image: url(images/leftNavBigbtn-on.jpg);
+	color: #FFFFFF;
+	background-repeat: no-repeat;
+}
+
+/*...............left navigational Bar........................*/
+
+.tophorzlinks{
+font-size:11px;
+font-weight:bold;
+font-style:normal;
+text-align:left;
+color: #0143a5;
+text-decoration:none;
+}
+a.tophorzlinks:hover{
+color: #000000;
+text-decoration:none;
+}
+.messagerep{
+	background-position:left;
+	background-image: url(images/message-midrep.jpg);
+	background-repeat: repeat-x;
+	}
+.h1{
+font-size:14px;
+font-weight:bold;
+font-style:normal;
+text-align:left;
+color: #ff7403;
+text-decoration:none;
+}
+.h2{
+font-size:22px;
+font-weight:bold;
+font-style:normal;
+text-align:left;
+color: #ff7403;
+text-decoration:none;
+}
+.recentmidrep{
+	background-position:left;
+	background-image: url(images/recent-midrep.jpg);
+	background-repeat: repeat-y;
+	}
+.recentTxt{
+font-size:11px;
+font-stretch:extra-condensed;
+font-weight:normal;
+font-style:normal;
+text-align:left;
+color: #000000;
+text-decoration:none;
+}
+.whatnew{
+	height:50px;
+	width:126px;
+	background-position:left;
+	background-image: url(images/whatisnew.gif);
+	background-repeat:no-repeat;
+	}
+.whatnewtxt{
+font-size:12px;
+font-weight:bold;
+font-style:normal;
+text-align:center;
+color: #8a2903;
+text-decoration:none;
+}
+a.whatnewtxt:hover{
+color: #000000;
+text-decoration:none;
+}
+.date{
+font-size:12px;
+font-weight:bold;
+font-style:normal;
+text-align:center;
+color: #074592;
+text-decoration:none;
+}
+.hometop{
+font-size:11px;
+font-weight:bold;
+font-style:normal;
+text-align:center;
+color: #f87b01;
+text-decoration:none;
+}
+a.hometop:hover{
+color: #993300;
+text-decoration:none;
+}
